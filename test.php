@@ -7,4 +7,4 @@ echo "this is another another test!\n";
 echo "test for a!\n";
 
 echo "just for a test\n";
-
+echo "today is friday!\n";
